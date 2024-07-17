@@ -1,0 +1,50 @@
+html,
+body {
+  background-color: rgb(32, 90, 27);
+}
+
+header {
+  height: 200px;
+  width: 100%;
+  background-color: rgb(230, 207, 9);
+  font-family: "Dancing Script", cursive;
+}
+.perent {
+  height: 280px;
+  width: 280px;
+  box-shadow: 12px 10px 8px black;
+  border-radius: 20px;
+  margin-top: 12px 10px 8px;
+}
+p {
+  text-shadow: 8px 6px 5px;
+  font-size: larger;
+  font-family: "Dancing Script", cursive;
+}
+.fixed {
+  height: 100px;
+  width: 100px;
+  border-radius: 70%;
+  background-color: rgb(32, 90, 27);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+a {
+  padding: 20px;
+  background-color: rgb(3, 238, 247);
+  position: relative;
+  top: 25px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+}
+#end {
+  background-color: rgb(241, 170, 36);
+  text-decoration: none;
+  color: white;
+}
+
+span {
+  color: red;
+}
